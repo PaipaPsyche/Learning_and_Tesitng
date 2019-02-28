@@ -1,0 +1,334 @@
+David esta en buenos terminos con Mafe
+Chris odia a Javier
+Mafe esta en buenos terminos con Susana
+Javier esta en buenos terminos con Susana
+Chris esta en buenos terminos con Mafe
+David esta en buenos terminos con Javier
+Susana esta en buenos terminos con Javier
+Javier odia a Chris
+-----------------------
+El sol ha desaparecido
+======== DIA 1 ========
+Mafe siente ansiedad.
+Mafe no puede consumir una racion de Yerba por la escasez
+Mafe no puede consumir una racion de Comida por la escasez
+Mafe no puede consumir una racion de Agua por la escasez
+Chris siente ansiedad.
+Chris no puede consumir una racion de Yerba por la escasez
+Susana se ha dormido.
+======== DIA 2 ========
+Mafe siente ansiedad.
+Mafe no puede consumir una racion de Yerba por la escasez
+Mafe no puede consumir una racion de Comida por la escasez
+David siente ansiedad.
+David no puede consumir una racion de Yerba por la escasez
+David no puede consumir una racion de Agua por la escasez
+Chris no puede consumir una racion de Agua por la escasez
+La humedad se filtra por el techo y finalmente derriba parte del techo
+Susana se ha despertado.
+Los escombros que caen del techo hieren a Mafe
+Mafe pierde salud.
+Los escombros que caen del techo hieren a Javier
+Javier pierde salud.
+Javier está perdiendo sangre.
+David tiene frustracion
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 3 ========
+Mafe no puede consumir una racion de Comida por la escasez
+Javier no puede consumir una racion de Agua por la escasez
+Susana y David tienen una charla casual  sobre Videojuegos y resulta mal
+Javier y Chris tienen una charla casual  sobre Actualidad y resulta mal
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 4 ========
+Javier tiene un ataque de panico y piede el control
+Javier esta considerando atacar a Mafe , pero es incapaz de hacerlo.
+Mafe no puede consumir una racion de Comida por la escasez
+Mafe no puede consumir una racion de Agua por la escasez
+David siente ansiedad.
+David no puede consumir una racion de Yerba por la escasez
+David no puede consumir una racion de Agua por la escasez
+Chris no puede consumir una racion de Comida por la escasez
+Susana no puede consumir una racion de Agua por la escasez
+Mafe lucha por mantenerse con vida a pesar de no tener comida
+Chris se ha dormido.
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+Susana se ha dormido.
+======== DIA 5 ========
+Mafe siente ansiedad.
+Mafe no puede consumir una racion de Yerba por la escasez
+David siente ansiedad.
+David no puede consumir una racion de Yerba por la escasez
+Chris se ha despertado.
+Susana se ha despertado.
+Javier y Mafe tienen un altercado.
+Javier odia a Mafe
+Mafe odia a Javier
+Chris tiene pensamientos alegres
+Mafe esta delirando
+Mafe lucha por mantenerse con vida a pesar de no tener comida
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 6 ========
+Mafe tiene un ataque de panico y piede el control
+Mafe está pensando en hacerle daño a otra persona
+Chris siente ansiedad.
+Chris no puede consumir una racion de Yerba por la escasez
+Chris no puede consumir una racion de Comida por la escasez
+Mafe esta delirando
+Mafe ha fallecido.
+Mafe ha muerto por inanicion.
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana se ha dormido.
+======== DIA 7 ========
+David siente ansiedad.
+David no puede consumir una racion de Yerba por la escasez
+David no puede consumir una racion de Agua por la escasez
+Chris no puede consumir una racion de Agua por la escasez
+Susana se ha despertado.
+Javier está pensando en hacerle daño a otra persona
+Chris y David tienen una charla casual  sobre Libros y resulta mal
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 8 ========
+David siente ansiedad.
+David no puede consumir una racion de Yerba por la escasez
+David no puede consumir una racion de Comida por la escasez
+David no puede consumir una racion de Agua por la escasez
+Susana no puede consumir una racion de Agua por la escasez
+David ha fallecido.
+David ha muerto por deshidratacion.
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 9 ========
+Chris siente ansiedad.
+Chris no puede consumir una racion de Yerba por la escasez
+Chris no puede consumir una racion de Comida por la escasez
+Chris no puede consumir una racion de Agua por la escasez
+Susana siente ansiedad.
+Susana no puede consumir una racion de Yerba por la escasez
+Chris se ha dormido.
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+Susana se ha dormido.
+======== DIA 10 ========
+Javier no puede consumir una racion de Agua por la escasez
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana se ha despertado.
+======== DIA 11 ========
+Javier no puede consumir una racion de Comida por la escasez
+Hay ruidos extraños en el pasillo
+Chris se ha despertado.
+Esto le quita la tranquilidad a Javier
+Chris esta delirando
+Dadas las circunstancias y la presion, Chris decide suicidarse.
+Chris ha fallecido.
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 12 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Javier no puede consumir una racion de Agua por la escasez
+Susana tiene esperaza
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha dormido.
+======== DIA 13 ========
+Susana siente ansiedad.
+Susana no puede consumir una racion de Yerba por la escasez
+Susana no puede consumir una racion de Agua por la escasez
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 14 ========
+Susana siente ansiedad.
+Susana no puede consumir una racion de Yerba por la escasez
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+Susana se ha dormido.
+======== DIA 15 ========
+Javier tiene pensamientos agresivos
+Javier tiene esperaza
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha despertado.
+======== DIA 16 ========
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana se ha despertado.
+======== DIA 17 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Susana no puede consumir una racion de Comida por la escasez
+Javier tiene ganas de llorar
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+======== DIA 18 ========
+Susana no puede consumir una racion de Comida por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+======== DIA 19 ========
+Susana no puede consumir una racion de Comida por la escasez
+Susana no puede consumir una racion de Agua por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+Susana no ha bebido agua en dias
+======== DIA 20 ========
+Susana tiene dudas sobre su rol en esta situacion
+Javier y Susana tienen un altercado.
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Susana esta delirando
+Susana no ha bebido agua en dias
+======== DIA 21 ========
+Susana siente ansiedad.
+Susana no puede consumir una racion de Yerba por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha dormido.
+Susana esta delirando
+Susana ha fallecido.
+Susana ha muerto por deshidratacion.
+======== DIA 22 ========
+Javier tiene pensamientos agresivos
+Javier tiene dudas sobre su rol en esta situacion
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 23 ========
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha despertado.
+======== DIA 24 ========
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 25 ========
+Javier siente demasiada sed y se ve en la necesidad de beber su propia orina
+Javier no puede consumir una racion de Agua por la escasez
+Javier tiene aburrimiento
+Hay ruidos extraños en el pasillo
+Esto le quita la tranquilidad a Javier
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 26 ========
+Javier no puede consumir una racion de Comida por la escasez
+Javier tiene aburrimiento
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 27 ========
+Javier no puede consumir una racion de Agua por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 28 ========
+Hay ruidos extraños en el pasillo
+Esto le quita la tranquilidad a Javier
+Javier tiene frustracion
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 29 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha dormido.
+======== DIA 30 ========
+Javier tiene frustracion
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 31 ========
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 32 ========
+Javier tiene pensamientos agresivos
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier se ha despertado.
+======== DIA 33 ========
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 34 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Javier no puede consumir una racion de Agua por la escasez
+Javier tiene aburrimiento
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 35 ========
+Javier tiene frustracion
+Javier tiene aburrimiento
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 36 ========
+Javier tiene ganas de llorar
+Javier tiene dudas sobre su rol en esta situacion
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 37 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Javier no puede consumir una racion de Comida por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 38 ========
+Javier tiene dudas sobre su rol en esta situacion
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 39 ========
+Javier siente demasiada sed y se ve en la necesidad de beber su propia orina
+Javier no puede consumir una racion de Agua por la escasez
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+======== DIA 40 ========
+Javier no puede consumir una racion de Comida por la escasez
+Javier tiene pensamientos alegres
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier lucha por mantenerse con vida a pesar de no tener comida
+======== DIA 41 ========
+Javier siente ansiedad.
+Javier no puede consumir una racion de Yerba por la escasez
+Javier no puede consumir una racion de Agua por la escasez
+Javier tiene frustracion
+Javier tiene aburrimiento
+Una fuga de gas en el edificio de al lado
+Afortunadamente no sucede nada grave
+Javier esta delirando
+Javier pierde salud.
+Javier ha perdido mucha sangre.
+Javier ha fallecido.
+Javier ha muerto por inanicion.
+======== DIA 42 ========
+El último superviviente muere después de 42 dias 
+{}
+0
